@@ -3,7 +3,7 @@
 ## 学习材料
 
 1. [ Go 指南](https://tour.go-zh.org/list)
-2. [Go 语言圣经（中文版）](https://books.studygolang.com/gopl-zh/)
+2. [Go 语言圣经（中文版）](https://book.itsfun.top/gopl-zh/ )
 
 ## 踩坑记录
 
